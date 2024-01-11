@@ -1,0 +1,14 @@
+bishop-bridge-pip:
+  debian:
+    pip:
+      packages: [bishop-bridge]
+  ubuntu:
+    pip:
+      packages: [bishop-bridge]
+pycomm3-pip:
+  debian:
+    pip:
+      packages: [pycomm3]
+  ubuntu:
+    pip:
+      packages: [pycomm3]
